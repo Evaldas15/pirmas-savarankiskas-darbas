@@ -1,0 +1,188 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #eeeeee;
+}
+
+.container {
+    width: 725px;
+    margin: auto;
+}
+
+.about {
+    height: 60px;
+    margin-left: 20px;
+}
+
+.menu ul li {
+    display: inline-block;
+    margin-right: 30px;
+    margin-top: 20px;
+}
+
+.bootle {
+    background-color: #0F1733;
+    width: 725px;
+}
+
+.menu {
+    background-color: #eeeeee;
+    color: red;
+}
+
+.bootle {
+    margin-left: 20px;
+}
+
+.header-image {
+    margin-top: 32px;
+}
+
+.button {
+    padding: 3px 6px;
+    background-color: #3c4446;
+    color: #ffffff;
+    border-radius: 50%;
+    border: none;
+}
+
+.fb {
+    float: right;
+    margin-right: 7px;
+    margin-top: 12px;
+}
+
+.image-container {
+
+    margin-top: 20px;
+}
+
+.image {
+    height: 160px;
+    width: 230px;
+    margin-right: 13px;
+    display: inline-block;
+}
+
+.container .image-container .image:last-of-type {
+    margin-right: 0px;
+}
+
+.goodimage {
+    height: 280px;
+
+    margin-top: 12px;
+}
+
+.img {
+    height: 204px;
+    width: 219px;
+}
+
+.klass {
+    margin-right: 12px;
+    margin-top: 10px;
+    float: right;
+}
+
+.secondmenu ul li {
+    display: block;
+    margin-bottom: 38px;
+}
+
+.secondmenu {
+    margin-left: 20px;
+    margin-top: 25px;
+}
+
+.buttont {
+    float: right;
+    padding: 3px 6px;
+    background-color: #d4d4d4;
+    color: gray;
+    border-radius: 50%;
+    border: none;
+}
+
+.window {
+    font-size: 0px;
+}
+
+.windows {
+    height: 107px;
+    width: 181px;
+    display: inline-block;
+
+}
+
+.cl {
+    height: 50px;
+    /* width: 735px; */
+    background-color: gray;
+    margin-top: 25px;
+    /* margin-left: 306px; */
+}
+
+.clock {
+    font-size: 12px;
+    color: #abc53d;
+    float: right;
+    margin-right: 15px;
+}
+
+.secondclock {
+    font-size: 12px;
+    float: left;
+    margin-left: 15px;
+}
+
+.text {
+    margin-left: 20px;
+    width: 440px;
+    font-size: 14px;
+}
+
+.ant {
+    text-align: justify;
+}
+
+.thirdclock {
+    margin-top: 20px;
+}
+
+.secondclock {
+    margin-top: 20px;
+}
+
+p {
+    font-size: 14px;
+    margin-left: 20px;
+}
+
+h1 {
+    margin-left: 20px;
+    margin-bottom: 5px;
+    margin-top: 7px;
+}
+
+h2 {
+    margin-top: 10px;
+}
+
+h3 {
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.text {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.win {
+    text-align: center;
+}
